@@ -1,8 +1,7 @@
-# ME02_especializacion
-Codigos del Analisis exploratorio de los datos y el Preprocesamiento
-# Análisis de Series Temporales Económicas y Financieras: Caso Bancolombia ADR y Macroeconomía Colombiana
+# Análisis de Series Temporales Económicas y Financieras
+## Caso: Bancolombia ADR y Macroeconomía Colombiana
 
-Este proyecto consiste en un análisis exploratorio y correlacional entre la serie histórica del precio de apertura del ADR de Bancolombia (CIB) y varias variables macroeconómicas de Colombia. El análisis incluye la descarga, limpieza, preparación, visualización y pruebas estadísticas para comprender las relaciones y comportamiento de estas series en el tiempo.
+Este proyecto realiza un análisis exploratorio y correlacional entre la serie histórica del precio de apertura del ADR de Bancolombia (ticker `CIB`) y variables macroeconómicas de Colombia, incluyendo descarga, limpieza, preparación, visualización y pruebas estadísticas.
 
 ---
 
